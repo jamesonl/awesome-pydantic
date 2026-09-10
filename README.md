@@ -49,6 +49,8 @@ These packages have not been vetted or approved by the pydantic team.
   
 - [BoFire](https://github.com/experimental-design/bofire) 🌟(408) - Bayesian Optimization Framework Intended for Real Experiments.
   
+- [Kitaru](https://github.com/zenml-io/kitaru) 🌟(75) - Durable execution layer for AI agents with checkpoints, replay, resume, and memory. Built on Pydantic models throughout, with a built-in PydanticAI adapter.
+  
 
 ## Object Mapping
   
