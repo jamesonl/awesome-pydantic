@@ -348,3 +348,14 @@ repositories:
     category: Command-Line Interface
     name: Code Puppy
     description: An open-source, terminal-based AI coding agent built on Pydantic AI, with fully typed tool definitions and pydantic-validated settings, configuration, and plugin hooks.
+
+  - repo: https://github.com/nth-bailey/pyxsdata
+    category: Utilities
+    name: pyxsdata
+    description: Naive XML data-binding, XSD/WSDL code generator, and serializer for Pydantic v2 and Python dataclasses.
+
+  - repo: https://github.com/nth-bailey/PolyXML
+    category: Utilities
+    name: PolyXML
+    description: High-performance polyglot native XML data-binding engine for bidirectional serialization and deserialization of Pydantic v2 models.
+
