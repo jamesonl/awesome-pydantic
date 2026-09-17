@@ -22,6 +22,8 @@ These packages have not been vetted or approved by the pydantic team.
   
 - [Laktory](https://github.com/opencubes-ai/laktory) 🌟(57) - A DataOps framework for building Databricks lakehouse.
   
+- [Pixeltable](https://github.com/pixeltable/pixeltable) 🌟(1120) - Declarative multimodal AI data engine providing versioned tables, computed columns, vector search, and direct Pydantic TableModel compilation into production FastAPI endpoints.
+  
 
 ## Machine Learning
   
