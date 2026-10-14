@@ -348,3 +348,8 @@ repositories:
     category: Command-Line Interface
     name: Code Puppy
     description: An open-source, terminal-based AI coding agent built on Pydantic AI, with fully typed tool definitions and pydantic-validated settings, configuration, and plugin hooks.
+
+  - repo: https://github.com/wislertt/bakefile
+    category: Command-Line Interface
+    name: bakefile
+    description: An object-oriented task runner where tasks are Pydantic models, validated at load time alongside environment variable injection and settings. Like a Makefile, but reusable across projects.
