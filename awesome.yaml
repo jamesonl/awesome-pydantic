@@ -348,3 +348,7 @@ repositories:
     category: Command-Line Interface
     name: Code Puppy
     description: An open-source, terminal-based AI coding agent built on Pydantic AI, with fully typed tool definitions and pydantic-validated settings, configuration, and plugin hooks.
+  - repo: https://github.com/svalench/fastapi_viewsets
+    category: Utilities
+    name: fastapi-viewsets
+    description: Django REST Framework-style ViewSets for FastAPI; generates CRUD routes from Pydantic v2 schemas and SQLAlchemy/Tortoise/Peewee models.
