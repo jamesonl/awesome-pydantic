@@ -1,4 +1,4 @@
-PyYAML==5.3.1
+PyYAML==5.4
 pydantic
 pydantic-settings
 Jinja2
