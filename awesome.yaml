@@ -348,3 +348,8 @@ repositories:
     category: Command-Line Interface
     name: Code Puppy
     description: An open-source, terminal-based AI coding agent built on Pydantic AI, with fully typed tool definitions and pydantic-validated settings, configuration, and plugin hooks.
+
+  - repo: https://github.com/manishgupta412/python-price-drop-alerts
+    category: Command-Line Interface
+    name: Python Price Drop Alerts
+    description: Price-drop and back-in-stock email alerts in Python, run on a GitHub Actions schedule, with a local price-history dashboard. The watchlist and settings are validated with Pydantic models, and emails are sent via the Mailtrap Email API.
