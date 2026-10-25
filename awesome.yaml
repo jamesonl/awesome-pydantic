@@ -348,3 +348,8 @@ repositories:
     category: Command-Line Interface
     name: Code Puppy
     description: An open-source, terminal-based AI coding agent built on Pydantic AI, with fully typed tool definitions and pydantic-validated settings, configuration, and plugin hooks.
+
+  - repo: https://github.com/vstorm-co/agenticos
+    category: Machine Learning
+    name: AgenticOS
+    description: Open-source, self-hosted workspace for company AI agents, built on Pydantic AI, with Pydantic-validated agent specs and tool calls.
