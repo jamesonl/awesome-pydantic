@@ -348,3 +348,8 @@ repositories:
     category: Command-Line Interface
     name: Code Puppy
     description: An open-source, terminal-based AI coding agent built on Pydantic AI, with fully typed tool definitions and pydantic-validated settings, configuration, and plugin hooks.
+
+  - repo: https://github.com/bart-rozycki/relprim
+    category: Utilities
+    name: RelPrim
+    description: Async reliability primitives with a Pydantic validator adapter for validating external API and LLM responses before accepting, retrying, or falling back.
