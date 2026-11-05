@@ -127,6 +127,9 @@ These packages have not been vetted or approved by the pydantic team.
   
 - [Schemato](https://github.com/weitaishan/schemato) 🌟(1) - Browser-only converter that turns JSON, JSON Schema, OpenAPI 3.x, SQL DDL, Protobuf, Prisma, Mongoose, Avro, GraphQL SDL, and TypeScript interfaces into Pydantic v2 models.
   
+- [python-price-drop-alerts](https://github.com/parv15/python-price-drop-alerts) 🌟(4) - Price-drop and back-in-stock email alerts that run on GitHub Actions, with pydantic-validated config.
+  
+
 
 ## Web
   
