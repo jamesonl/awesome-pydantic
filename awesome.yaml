@@ -348,3 +348,8 @@ repositories:
     category: Command-Line Interface
     name: Code Puppy
     description: An open-source, terminal-based AI coding agent built on Pydantic AI, with fully typed tool definitions and pydantic-validated settings, configuration, and plugin hooks.
+
+  - repo: https://github.com/vstorm-co/full-stack-ai-agent-template
+    category: Web
+    name: Full-Stack AI Agent Template
+    description: Project generator for FastAPI and Next.js AI agent apps, with Pydantic AI or another agent framework, Pydantic models and settings, WebSocket streaming, RAG, auth and Docker setup.
